@@ -29,8 +29,8 @@ ul {
 }
 
 video {
-    width: 100vw;
-    min-height: 80vh;
+    width: 100%;
+    height: auto;
 }
 
 .capa{
@@ -73,7 +73,8 @@ video {
 }
 
 .imagem-carrossel{
-    height: 150px;
+    width: 100%;
+    height: auto;
 }
 
 #carouselExampleControls{
